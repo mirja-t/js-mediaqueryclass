@@ -1,0 +1,18 @@
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+h1 {
+    font-size: 2rem;
+}
+h2 {
+    font-size: 1.35rem;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
